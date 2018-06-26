@@ -1,0 +1,18 @@
+.title{
+    width: 100%;
+    height: 68px;
+    background: #002140;
+    text-align: center;
+    line-height: 68px;
+    color: #fff;
+}
+
+.align-left{
+    text-align: left;
+}
+
+.maintain{
+   width: 250px;
+   height: 600px;
+   background-color: #001529;
+}
